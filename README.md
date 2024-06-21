@@ -21,6 +21,7 @@ f(-1.5) =  [-0.95527315]   original f(x)=  -0.625
 f(0.5)  =  [-1.1797777]    original f(x)=  -1.125
 
 f(1.8)  =  [6.331234]      original f(x)=  6.272
+
 این برنامه در محیط colab اجرا شد و برای اجرای توابعی از کتابخانه tensorFlow نیاز به CPU است که از AVX پشتیبانی کند یا از GPU استفاده شود، در غیر این صورت دچار خطا خواهد شد و اجرا نمی شود.
 
 The program first generates 100 sample points using a function.
